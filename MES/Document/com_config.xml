@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+  <com type="MES">
+    <PortName>COM3</PortName>
+    <BaudRate>9600</BaudRate>
+    <DateBit>8</DateBit>
+    <StopBit>1</StopBit>
+    <Parity>0</Parity>
+    <RtsEnable>false</RtsEnable>
+    <DtrEnable>false</DtrEnable>
+  </com>
+</configurations>
